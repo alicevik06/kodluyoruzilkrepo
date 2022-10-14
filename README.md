@@ -2,7 +2,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası , bir adet de index.html barındırıyor.
 
-![Projemin İlk Resmi](C:\Projects\turkcellOdev\kodluyoruzilkrepo\projeResmi.PNG)
+![projeResmi](https://user-images.githubusercontent.com/62955191/195893910-f5d71660-a965-411b-8b8c-acaac958212d.PNG)
 
   
 
@@ -12,6 +12,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 ```
 git clone https://github.com/alicevik06/kodluyoruzilkrepo.git
 ```
+
   
 
 ## Usage
